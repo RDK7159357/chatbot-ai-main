@@ -5,7 +5,7 @@ import google.generativeai as genai
 st.title("Plagiarism Checking System")
 
 # Configure APIs
-API_KEY = "AIzaSyDLvrG1Vhb5ymn9iWmFPn91el1hGEpE7yA"  # Replace with your actual API key
+API_KEY = ""  # Replace with your actual API key
 CUSTOM_SEARCH_ENGINE_ID = "653666bda19864851"  # Replace after creating a Programmable Search Engine
 GENAI_MODEL_NAME = "gemini-1.5-flash"
 
